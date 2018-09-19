@@ -1,7 +1,6 @@
 # hitra-tunnel
 Kildekode for øving 3 i LeJOS-prosjektet på Dataingeniør-studiet ved NTNU.
 <<<<<<< HEAD
-testlinje for review
 =======
 
 Roboten er designet med to hjulmotorer, en lydsensor, en fargesensor og to trykksensorer.
