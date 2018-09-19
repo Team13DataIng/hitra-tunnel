@@ -1,2 +1,11 @@
 # hitra-tunnel
 Kildekode for øving 3 i LeJOS-prosjektet på Dataingeniør-studiet ved NTNU.
+
+Roboten er designet med to hjulmotorer, en lydsensor, en fargesensor og to trykksensorer.
+
+Trykksensor: Port 2 og 3
+Lydsensor: Port 1
+Fargesensor: Port 4
+Motorer: Port A og B
+
+Roboten stopper, rygger, svinger og kjører videre dersom den kolliderer med en vegg eller registrerer en svart linje under fronten. Dersom den registrerer en høy lyd, stopper den i et par sekunder.
